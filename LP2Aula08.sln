@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtendString", "ExtendString\ExtendString.csproj", "{831CF7E8-5C2B-46A2-9A86-9584F624DE78}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQFluent", "LINQFluent\LINQFluent.csproj", "{B6FC6800-11A0-4B52-B6DA-BEC0C842E626}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{831CF7E8-5C2B-46A2-9A86-9584F624DE78}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{831CF7E8-5C2B-46A2-9A86-9584F624DE78}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{831CF7E8-5C2B-46A2-9A86-9584F624DE78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6FC6800-11A0-4B52-B6DA-BEC0C842E626}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6FC6800-11A0-4B52-B6DA-BEC0C842E626}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6FC6800-11A0-4B52-B6DA-BEC0C842E626}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6FC6800-11A0-4B52-B6DA-BEC0C842E626}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
